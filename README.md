@@ -7,7 +7,7 @@ NodeJS Wrapper for http://deckofcardsapi.com/
 
 Usage/Examples
 ----------------------
-[Examples.js](examples.js)
+[example.js](example.js)
 
 
 Test
