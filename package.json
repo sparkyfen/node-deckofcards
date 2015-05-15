@@ -1,0 +1,32 @@
+{
+  "name": "node-deckofcards",
+  "version": "0.0.1",
+  "description": "NodeJS Wrapper for http://deckofcardsapi.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:brutalhonesty/node-deckofcards.git"
+  },
+  "keywords": [
+    "deckofcards",
+    "cards",
+    "blackjack"
+  ],
+  "author": "Adam Schodde <sparky1010+github@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brutalhonesty/node-deckofcards/issues"
+  },
+  "homepage": "https://github.com/brutalhonesty/node-deckofcards",
+  "dependencies": {
+    "lodash": "^3.8.0",
+    "request": "^2.55.0"
+  },
+  "devDependencies": {
+    "nock": "^2.0.1",
+    "should": "^6.0.1"
+  }
+}
