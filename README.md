@@ -1,8 +1,9 @@
 Node-DeckOfCards
 ================
 
-
 NodeJS Wrapper for http://deckofcardsapi.com/
+
+[![Build Status](https://travis-ci.org/brutalhonesty/node-deckofcards.svg?branch=master)](https://travis-ci.org/brutalhonesty/node-deckofcards)
 
 
 Usage/Examples
